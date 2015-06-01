@@ -1,7 +1,7 @@
 .version.graphic_design /* version checker */
 {
-	color: #0000E9;
-	background-color: #A1FD31;
+	color: #0000F4;
+	background-color: #851F92;
 }
 
 .html
@@ -31,19 +31,19 @@
 
 #u419
 {
-	z-index: 29;
+	z-index: 28;
 	height: 98px;
 	top: 0px;
 }
 
 #u419-bw
 {
-	z-index: 29;
+	z-index: 28;
 }
 
 #u1257-4
 {
-	z-index: 83;
+	z-index: 82;
 	width: 153px;
 	min-height: 47px;
 	top: 0px;
@@ -52,7 +52,7 @@
 
 #menuu382
 {
-	z-index: 30;
+	z-index: 29;
 	width: 588px;
 	top: 0px;
 	left: 372px;
@@ -224,7 +224,7 @@
 
 #u415
 {
-	z-index: 49;
+	z-index: 48;
 	width: 14px;
 	height: 14px;
 	margin-right: -10000px;
@@ -600,7 +600,7 @@
 
 #u2067
 {
-	z-index: 19;
+	z-index: 17;
 	width: 608px;
 	height: 233px;
 	position: relative;
@@ -612,7 +612,7 @@
 
 #u2074
 {
-	z-index: 20;
+	z-index: 18;
 	width: 608px;
 	height: 233px;
 	position: relative;
@@ -624,7 +624,7 @@
 
 #u2042
 {
-	z-index: 21;
+	z-index: 19;
 	width: 608px;
 	background-color: transparent;
 	position: relative;
@@ -634,7 +634,7 @@
 
 #u2081
 {
-	z-index: 23;
+	z-index: 21;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 1652px;
@@ -643,7 +643,7 @@
 
 #u2098
 {
-	z-index: 27;
+	z-index: 25;
 	width: 960px;
 	height: 288px;
 	position: relative;
@@ -663,26 +663,25 @@
 
 #u1002
 {
-	z-index: 28;
+	z-index: 27;
 	height: 7px;
 	top: 95px;
 }
 
 #u1002-bw
 {
-	z-index: 28;
+	z-index: 27;
 }
 
 #pu2048
 {
 	width: 0.01px;
-	margin-left: 1px;
 	margin-top: -3px;
 }
 
 #u2048
 {
-	z-index: 24;
+	z-index: 22;
 	width: 480px;
 	background-color: transparent;
 	position: relative;
@@ -705,25 +704,27 @@
 
 #u2086
 {
-	z-index: 26;
+	z-index: 24;
 	width: 516px;
 	height: 192px;
 	position: relative;
 	margin-right: -10000px;
-	left: 444px;
+	left: 445px;
 	background: transparent url("../images/santabear-01.jpg") no-repeat left top;
 	background-size: cover;
 }
 
-#u2054
+#u2236
 {
-	z-index: 17;
+	z-index: 26;
 	width: 960px;
-	background-color: transparent;
-	margin-left: 1px;
-	top: -7px;
-	margin-bottom: -7px;
+	height: 351px;
+	left: -1px;
+	top: -5px;
+	margin-bottom: -5px;
 	position: relative;
+	background: transparent url("../images/spring15rush_cover.jpg") no-repeat center center;
+	background-size: cover;
 }
 
 body

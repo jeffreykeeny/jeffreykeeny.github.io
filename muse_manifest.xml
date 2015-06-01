@@ -1,25 +1,25 @@
-<manifest alg="2" build="11" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" resolutions="1x" timestamp="1433118642401">
+<manifest alg="2" build="11" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" resolutions="1x" timestamp="1433141171491">
   <folder name="css">
     <file name="site_global.css" crc="513671728"/>
-    <file name="master_a-master.css" crc="375770138" ref="723:graphic-design:parking-buddy:user-experience:callisto:photography"/>
+    <file name="master_a-master.css" crc="533525749" ref="723:graphic-design:parking-buddy:user-experience:callisto:photography"/>
     <file name="723.css" crc="3779085621" ref="723"/>
     <file name="iefonts_723.css" crc="483224638" ref="723"/>
-    <file name="graphic-design.css" crc="3919707441" ref="graphic-design"/>
+    <file name="graphic-design.css" crc="4102365074" ref="graphic-design"/>
     <file name="iefonts_graphic-design.css" crc="434899982" ref="graphic-design"/>
-    <file name="index.css" crc="392610240" ref="index"/>
+    <file name="index.css" crc="3941827132" ref="index"/>
     <file name="iefonts_index.css" crc="194352521" ref="index"/>
     <file name="parking-buddy.css" crc="317980835" ref="parking-buddy"/>
     <file name="iefonts_parking-buddy.css" crc="429291613" ref="parking-buddy"/>
-    <file name="user-experience.css" crc="3834119299" ref="user-experience"/>
-    <file name="iefonts_user-experience.css" crc="19924421" ref="user-experience"/>
-    <file name="callisto.css" crc="3797950629" ref="callisto"/>
+    <file name="user-experience.css" crc="468950017" ref="user-experience"/>
+    <file name="iefonts_user-experience.css" crc="468205068" ref="user-experience"/>
+    <file name="callisto.css" crc="4040256991" ref="callisto"/>
     <file name="iefonts_callisto.css" crc="4121734043" ref="callisto"/>
     <file name="photography.css" crc="3765496404" ref="photography"/>
     <file name="iefonts_photography.css" crc="4101435184" ref="photography"/>
   </folder>
   <folder name="assets">
     <file name="resume_new.pdf" crc="3890735775" mt="1416992762000"/>
-    <file name="resume_2015.pdf" crc="3946208446" mt="1431885440000"/>
+    <file name="resume_2015.pdf" crc="3829096678" mt="1433140931000"/>
     <file name="callistoformativeresearchsummary.pdf" crc="3974300129" mt="1425435611000"/>
   </folder>
   <folder name="scripts">
@@ -62,7 +62,6 @@
     <file name="stripes-01.png" crc="4174791617" ref="user-experience"/>
     <file name="displayphotoedit.jpg" crc="3782941265" ref="user-experience:callisto"/>
     <file name="parkingbuddy.jpg" crc="4279930784" ref="user-experience:parking-buddy"/>
-    <file name="723stock.jpg" crc="501367900" ref="user-experience"/>
     <file name="stripes3-01.png" crc="237732515" ref="callisto:parking-buddy"/>
     <file name="img_0945.jpg" crc="278266853" ref="callisto"/>
     <file name="img_0952.jpg" crc="4247425362" ref="callisto"/>
@@ -147,13 +146,13 @@
     <file name="uc_transit-01.jpg" crc="306595744" ref="graphic-design"/>
     <file name="mesmerize.jpg" crc="4202839447" ref="graphic-design"/>
     <file name="santabear-01.jpg" crc="3948981997" ref="graphic-design"/>
-    <file name="spring15rush_cover.jpg" crc="4256491128" ref="graphic-design"/>
+    <file name="spring15rush_cover.jpg" crc="404017896" ref="graphic-design"/>
   </folder>
-  <file name="index.html" crc="383573812" mt="1433114370682" redirect="true"/>
-  <file name="user-experience.html" crc="93393291" mt="1433118640745" redirect="true"/>
-  <file name="callisto.html" crc="43035044" mt="1433118640743" redirect="true"/>
+  <file name="index.html" crc="3981947242" mt="1433140958107" redirect="true"/>
+  <file name="user-experience.html" crc="433925286" mt="1433141169573" redirect="true"/>
+  <file name="callisto.html" crc="3847173170" mt="1433141169574" redirect="true"/>
   <file name="parking-buddy.html" crc="4140003533" mt="1433111536077" redirect="true"/>
   <file name="723.html" crc="513899526" mt="1433111536077" redirect="true"/>
   <file name="photography.html" crc="529890005" mt="1433111536077" redirect="true"/>
-  <file name="graphic-design.html" crc="390888810" mt="1433111536077" redirect="true"/>
+  <file name="graphic-design.html" crc="3863334757" mt="1433140951834" redirect="true"/>
 </manifest>

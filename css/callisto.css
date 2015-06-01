@@ -1,7 +1,7 @@
 .version.callisto /* version checker */
 {
-	color: #0000E2;
-	background-color: #6020A5;
+	color: #0000F0;
+	background-color: #D16DDF;
 }
 
 .html
@@ -554,10 +554,10 @@
 	width: 650px;
 	min-height: 53px;
 	background-color: transparent;
-	color: #303030;
+	line-height: 48px;
 	text-align: center;
 	font-size: 40px;
-	line-height: 48px;
+	color: #303030;
 	font-family: vidaloka, serif;
 	font-weight: 400;
 	margin-left: 155px;
@@ -606,10 +606,10 @@
 	width: 650px;
 	min-height: 42px;
 	background-color: transparent;
-	color: #303030;
+	line-height: 41px;
 	text-align: center;
 	font-size: 34px;
-	line-height: 41px;
+	color: #303030;
 	font-family: satisfy, cursive;
 	font-weight: 400;
 	margin-left: 155px;
@@ -636,10 +636,10 @@
 	width: 650px;
 	min-height: 42px;
 	background-color: transparent;
-	color: #303030;
+	line-height: 41px;
 	text-align: center;
 	font-size: 34px;
-	line-height: 41px;
+	color: #303030;
 	font-family: satisfy, cursive;
 	font-weight: 400;
 	margin-left: 155px;
@@ -679,10 +679,10 @@
 	width: 650px;
 	min-height: 42px;
 	background-color: transparent;
-	color: #303030;
+	line-height: 41px;
 	text-align: center;
 	font-size: 34px;
-	line-height: 41px;
+	color: #303030;
 	font-family: satisfy, cursive;
 	font-weight: 400;
 	margin-left: 155px;
@@ -819,10 +819,10 @@
 	width: 650px;
 	min-height: 42px;
 	background-color: transparent;
-	color: #303030;
+	line-height: 41px;
 	text-align: center;
 	font-size: 34px;
-	line-height: 41px;
+	color: #303030;
 	font-family: satisfy, cursive;
 	font-weight: 400;
 	margin-left: 155px;
@@ -876,10 +876,10 @@
 	width: 650px;
 	min-height: 42px;
 	background-color: transparent;
-	color: #303030;
+	line-height: 41px;
 	text-align: center;
 	font-size: 34px;
-	line-height: 41px;
+	color: #303030;
 	font-family: satisfy, cursive;
 	font-weight: 400;
 	margin-left: 155px;
@@ -1065,9 +1065,9 @@
 	width: 235px;
 	min-height: 37px;
 	background-color: transparent;
+	line-height: 34px;
 	text-align: center;
 	font-size: 28px;
-	line-height: 34px;
 	font-family: satisfy, cursive;
 	font-weight: 400;
 	position: relative;
@@ -1094,10 +1094,10 @@
 	width: 650px;
 	min-height: 42px;
 	background-color: transparent;
-	color: #303030;
+	line-height: 41px;
 	text-align: center;
 	font-size: 34px;
-	line-height: 41px;
+	color: #303030;
 	font-family: satisfy, cursive;
 	font-weight: 400;
 	margin-left: 154px;
