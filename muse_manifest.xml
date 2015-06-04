@@ -1,12 +1,12 @@
-<manifest alg="2" build="11" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" resolutions="1x" timestamp="1433141171491">
+<manifest alg="2" build="11" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" resolutions="1x" timestamp="1433390384763">
   <folder name="css">
     <file name="site_global.css" crc="513671728"/>
     <file name="master_a-master.css" crc="533525749" ref="723:graphic-design:parking-buddy:user-experience:callisto:photography"/>
     <file name="723.css" crc="3779085621" ref="723"/>
     <file name="iefonts_723.css" crc="483224638" ref="723"/>
-    <file name="graphic-design.css" crc="4102365074" ref="graphic-design"/>
+    <file name="graphic-design.css" crc="258575225" ref="graphic-design"/>
     <file name="iefonts_graphic-design.css" crc="434899982" ref="graphic-design"/>
-    <file name="index.css" crc="3941827132" ref="index"/>
+    <file name="index.css" crc="4256505121" ref="index"/>
     <file name="iefonts_index.css" crc="194352521" ref="index"/>
     <file name="parking-buddy.css" crc="317980835" ref="parking-buddy"/>
     <file name="iefonts_parking-buddy.css" crc="429291613" ref="parking-buddy"/>
@@ -132,27 +132,27 @@
     <file name="fullsizerender.jpg" crc="3948541029" ref="graphic-design"/>
     <file name="stars.jpg" crc="4087216735" ref="graphic-design"/>
     <file name="vince.jpg" crc="198977304" ref="graphic-design"/>
-    <file name="stars2.jpg" crc="3805494873" ref="graphic-design"/>
-    <file name="dsc_0110-2.jpg" crc="437098288" ref="graphic-design"/>
+    <file name="stars2.jpg" crc="92999101" ref="graphic-design"/>
+    <file name="dsc_0110-2.jpg" crc="342972256" ref="graphic-design"/>
     <file name="cdsc_0110-2.jpg" crc="4216879695" ref="graphic-design"/>
     <file name="pasted svg 576x828.svg" crc="329719721" ref="graphic-design"/>
     <file name="pasted svg 576x828_poster_.png" crc="3820771501" ref="graphic-design"/>
-    <file name="clipachi_flyer-01.jpg" crc="4255246064" ref="graphic-design"/>
+    <file name="clipachi_flyer-01.jpg" crc="4168393702" ref="graphic-design"/>
     <file name="butts.jpg" crc="284896777" ref="graphic-design"/>
     <file name="atw_cover.jpg" crc="33186081" ref="graphic-design"/>
     <file name="dsc05914 copy.jpg" crc="3786024960" ref="graphic-design"/>
     <file name="pasted svg 500x500.svg" crc="156234181" ref="graphic-design"/>
     <file name="pasted svg 500x500_poster_.png" crc="508076076" ref="graphic-design"/>
-    <file name="uc_transit-01.jpg" crc="306595744" ref="graphic-design"/>
+    <file name="uc_transit-01.jpg" crc="268087059" ref="graphic-design"/>
     <file name="mesmerize.jpg" crc="4202839447" ref="graphic-design"/>
     <file name="santabear-01.jpg" crc="3948981997" ref="graphic-design"/>
     <file name="spring15rush_cover.jpg" crc="404017896" ref="graphic-design"/>
   </folder>
-  <file name="index.html" crc="3981947242" mt="1433140958107" redirect="true"/>
-  <file name="user-experience.html" crc="433925286" mt="1433141169573" redirect="true"/>
-  <file name="callisto.html" crc="3847173170" mt="1433141169574" redirect="true"/>
+  <file name="index.html" crc="290512244" mt="1433389234926" redirect="true"/>
+  <file name="user-experience.html" crc="4270514842" mt="1433390382842" redirect="true"/>
+  <file name="callisto.html" crc="4096839273" mt="1433390382841" redirect="true"/>
   <file name="parking-buddy.html" crc="4140003533" mt="1433111536077" redirect="true"/>
   <file name="723.html" crc="513899526" mt="1433111536077" redirect="true"/>
   <file name="photography.html" crc="529890005" mt="1433111536077" redirect="true"/>
-  <file name="graphic-design.html" crc="3863334757" mt="1433140951834" redirect="true"/>
+  <file name="graphic-design.html" crc="4235818260" mt="1433390360777" redirect="true"/>
 </manifest>
