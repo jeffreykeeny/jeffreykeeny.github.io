@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #0000FD;
-	background-color: #B51D21;
+	color: #0000E5;
+	background-color: #D56819;
 }
 
 .html
@@ -49,7 +49,7 @@
 
 #u1258-4
 {
-	z-index: 159;
+	z-index: 163;
 	width: 153px;
 	min-height: 47px;
 	background-color: transparent;
@@ -66,7 +66,7 @@
 
 #menuu237
 {
-	z-index: 107;
+	z-index: 111;
 	width: 589px;
 	border-style: none;
 	border-color: transparent;
@@ -280,7 +280,7 @@
 
 #u347
 {
-	z-index: 126;
+	z-index: 130;
 	width: 14px;
 	height: 14px;
 	position: relative;
@@ -616,14 +616,14 @@
 
 #u273
 {
-	z-index: 106;
+	z-index: 110;
 	height: 98px;
 	background-color: #FFFFFF;
 }
 
 #u273-bw
 {
-	z-index: 106;
+	z-index: 110;
 	position: fixed;
 	left: 0px;
 	right: 0px;
@@ -632,14 +632,14 @@
 
 #u160
 {
-	z-index: 104;
+	z-index: 108;
 	height: 98px;
 	background-color: #FFFFFF;
 }
 
 #u160-bw
 {
-	z-index: 104;
+	z-index: 108;
 	position: fixed;
 	left: 0px;
 	right: 0px;
@@ -665,7 +665,7 @@
 
 #u1005
 {
-	z-index: 105;
+	z-index: 109;
 	height: 7px;
 	background: -webkit-gradient(linear, center top, center bottom, from(rgba(127,127,127,0.3)),color-stop(100%, rgba(0,0,0,0)));
 	background: -webkit-linear-gradient(top,rgba(127,127,127,0.3) ,rgba(0,0,0,0) 100%);
@@ -683,7 +683,7 @@
 
 #u1005-bw
 {
-	z-index: 105;
+	z-index: 109;
 	position: fixed;
 	left: 0px;
 	right: 0px;
@@ -698,7 +698,7 @@
 
 #u962-4
 {
-	z-index: 96;
+	z-index: 100;
 	width: 650px;
 	min-height: 72px;
 	background-color: transparent;
@@ -772,7 +772,7 @@
 
 #u2209
 {
-	z-index: 102;
+	z-index: 106;
 	background-color: transparent;
 	overflow: hidden;
 	position: relative;
@@ -783,7 +783,7 @@
 
 #u2199
 {
-	z-index: 101;
+	z-index: 105;
 	background-color: transparent;
 	overflow: hidden;
 	position: relative;
@@ -805,7 +805,7 @@
 
 #u2214
 {
-	z-index: 103;
+	z-index: 107;
 	background-color: transparent;
 	overflow: hidden;
 	position: relative;
@@ -827,7 +827,7 @@
 
 #u2194
 {
-	z-index: 100;
+	z-index: 104;
 	background-color: transparent;
 	overflow: hidden;
 	position: relative;
@@ -889,9 +889,52 @@
 	margin: 16px 0px 0px;
 }
 
-#u891-4
+#u2245-4
 {
 	z-index: 92;
+	width: 313px;
+	min-height: 24px;
+	background-color: #497D7D;
+	line-height: 24px;
+	text-align: center;
+	font-size: 16px;
+	letter-spacing: 8px;
+	color: #FFFFFF;
+	font-family: vidaloka, serif;
+	font-weight: 400;
+	margin-top: 7px;
+	position: relative;
+}
+
+#u2245-4:hover
+{
+	background-color: #447D7D;
+	opacity: 0.6;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=60)";
+	filter: alpha(opacity=60);
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 24px;
+	width: 313px;
+	margin: 7px 0px 0px;
+}
+
+#u2245-4:active
+{
+	background-color: #DEDEDE;
+	opacity: 0.6;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=60)";
+	filter: alpha(opacity=60);
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 24px;
+	width: 313px;
+	margin: 7px 0px 0px;
+}
+
+#u891-4
+{
+	z-index: 96;
 	width: 340px;
 	min-height: 31px;
 	background-color: transparent;
@@ -901,7 +944,7 @@
 	font-family: satisfy, cursive;
 	font-weight: 400;
 	margin-left: 155px;
-	margin-top: 54px;
+	margin-top: 46px;
 	position: relative;
 }
 

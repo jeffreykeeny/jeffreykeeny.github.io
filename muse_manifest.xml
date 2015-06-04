@@ -1,4 +1,4 @@
-<manifest alg="2" build="11" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" resolutions="1x" timestamp="1433398212593">
+<manifest alg="2" build="11" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" resolutions="1x" timestamp="1433399086406">
   <folder name="css">
     <file name="site_global.css" crc="513671728"/>
     <file name="master_a-master.css" crc="533525749" ref="723:graphic-design:parking-buddy:user-experience:callisto:photography"/>
@@ -6,8 +6,8 @@
     <file name="iefonts_723.css" crc="483224638" ref="723"/>
     <file name="graphic-design.css" crc="258575225" ref="graphic-design"/>
     <file name="iefonts_graphic-design.css" crc="434899982" ref="graphic-design"/>
-    <file name="index.css" crc="4256505121" ref="index"/>
-    <file name="iefonts_index.css" crc="194352521" ref="index"/>
+    <file name="index.css" crc="3855968281" ref="index"/>
+    <file name="iefonts_index.css" crc="33059702" ref="index"/>
     <file name="parking-buddy.css" crc="317980835" ref="parking-buddy"/>
     <file name="iefonts_parking-buddy.css" crc="429291613" ref="parking-buddy"/>
     <file name="user-experience.css" crc="468950017" ref="user-experience"/>
@@ -148,9 +148,9 @@
     <file name="santabear-01.jpg" crc="3948981997" ref="graphic-design"/>
     <file name="spring15rush_cover.jpg" crc="404017896" ref="graphic-design"/>
   </folder>
-  <file name="index.html" crc="290512244" mt="1433389234926" redirect="true"/>
-  <file name="user-experience.html" crc="4270514842" mt="1433398210550" redirect="true"/>
-  <file name="callisto.html" crc="4230438493" mt="1433398210548" redirect="true"/>
+  <file name="index.html" crc="350038105" mt="1433399072940" redirect="true"/>
+  <file name="user-experience.html" crc="4164287223" mt="1433399084440" redirect="true"/>
+  <file name="callisto.html" crc="88160384" mt="1433399084438" redirect="true"/>
   <file name="parking-buddy.html" crc="4140003533" mt="1433111536077" redirect="true"/>
   <file name="723.html" crc="513899526" mt="1433111536077" redirect="true"/>
   <file name="photography.html" crc="529890005" mt="1433111536077" redirect="true"/>
