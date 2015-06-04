@@ -1,4 +1,4 @@
-<manifest alg="2" build="11" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" resolutions="1x" timestamp="1433390384763">
+<manifest alg="2" build="11" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" resolutions="1x" timestamp="1433398212593">
   <folder name="css">
     <file name="site_global.css" crc="513671728"/>
     <file name="master_a-master.css" crc="533525749" ref="723:graphic-design:parking-buddy:user-experience:callisto:photography"/>
@@ -149,8 +149,8 @@
     <file name="spring15rush_cover.jpg" crc="404017896" ref="graphic-design"/>
   </folder>
   <file name="index.html" crc="290512244" mt="1433389234926" redirect="true"/>
-  <file name="user-experience.html" crc="4270514842" mt="1433390382842" redirect="true"/>
-  <file name="callisto.html" crc="4096839273" mt="1433390382841" redirect="true"/>
+  <file name="user-experience.html" crc="4270514842" mt="1433398210550" redirect="true"/>
+  <file name="callisto.html" crc="4230438493" mt="1433398210548" redirect="true"/>
   <file name="parking-buddy.html" crc="4140003533" mt="1433111536077" redirect="true"/>
   <file name="723.html" crc="513899526" mt="1433111536077" redirect="true"/>
   <file name="photography.html" crc="529890005" mt="1433111536077" redirect="true"/>
