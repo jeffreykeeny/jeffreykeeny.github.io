@@ -1,4 +1,4 @@
-<manifest alg="2" build="11" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" resolutions="1x" timestamp="1433399086406">
+<manifest alg="2" build="11" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" resolutions="1x" timestamp="1433399824592">
   <folder name="css">
     <file name="site_global.css" crc="513671728"/>
     <file name="master_a-master.css" crc="533525749" ref="723:graphic-design:parking-buddy:user-experience:callisto:photography"/>
@@ -6,8 +6,8 @@
     <file name="iefonts_723.css" crc="483224638" ref="723"/>
     <file name="graphic-design.css" crc="258575225" ref="graphic-design"/>
     <file name="iefonts_graphic-design.css" crc="434899982" ref="graphic-design"/>
-    <file name="index.css" crc="3855968281" ref="index"/>
-    <file name="iefonts_index.css" crc="33059702" ref="index"/>
+    <file name="index.css" crc="154080002" ref="index"/>
+    <file name="iefonts_index.css" crc="220366570" ref="index"/>
     <file name="parking-buddy.css" crc="317980835" ref="parking-buddy"/>
     <file name="iefonts_parking-buddy.css" crc="429291613" ref="parking-buddy"/>
     <file name="user-experience.css" crc="468950017" ref="user-experience"/>
@@ -30,11 +30,6 @@
     <file name="jquery.watch.js" crc="56779320" ref="index:user-experience:callisto:parking-buddy:723:photography:graphic-design"/>
     <file name="pie.js" crc="3827607177" ref="index:user-experience:callisto:parking-buddy"/>
     <file name="jquery.musemenu.js" crc="397543671" ref="index:user-experience:callisto:parking-buddy:723:photography:graphic-design"/>
-    <file name="webpro.js" crc="220831917" ref="index"/>
-    <file name="form_check.php" crc="218543696" ref="index"/>
-    <file name="form_throttle.php" crc="3988545917" ref="index"/>
-    <file name="form_process.php" crc="4264751530" ref="index"/>
-    <file name="form-u872.php" crc="3970700168" ref="index"/>
     <file name="html5shiv.js" crc="4241844378" ref="index:user-experience:callisto:parking-buddy:723:photography:graphic-design"/>
   </folder>
   <folder name="images">
@@ -55,10 +50,6 @@
     <file name="pasted svg 324524x324_poster_6.png" crc="3865820688" ref="index"/>
     <file name="pasted svg 324524x3247.svg" crc="3938419858" ref="index"/>
     <file name="pasted svg 324524x324_poster_7.png" crc="3762116727" ref="index"/>
-    <file name="u878-17.png" crc="292993706" ref="index"/>
-    <file name="u878-17-r.png" crc="445071133" ref="index"/>
-    <file name="u878-17-m.png" crc="4212031906" ref="index"/>
-    <file name="u878-17-fs.png" crc="4124375718" ref="index"/>
     <file name="stripes-01.png" crc="4174791617" ref="user-experience"/>
     <file name="displayphotoedit.jpg" crc="3782941265" ref="user-experience:callisto"/>
     <file name="parkingbuddy.jpg" crc="4279930784" ref="user-experience:parking-buddy"/>
@@ -148,9 +139,9 @@
     <file name="santabear-01.jpg" crc="3948981997" ref="graphic-design"/>
     <file name="spring15rush_cover.jpg" crc="404017896" ref="graphic-design"/>
   </folder>
-  <file name="index.html" crc="350038105" mt="1433399072940" redirect="true"/>
-  <file name="user-experience.html" crc="4164287223" mt="1433399084440" redirect="true"/>
-  <file name="callisto.html" crc="88160384" mt="1433399084438" redirect="true"/>
+  <file name="index.html" crc="4123227355" mt="1433399811999" redirect="true"/>
+  <file name="user-experience.html" crc="4164287223" mt="1433399822399" redirect="true"/>
+  <file name="callisto.html" crc="88160384" mt="1433399822398" redirect="true"/>
   <file name="parking-buddy.html" crc="4140003533" mt="1433111536077" redirect="true"/>
   <file name="723.html" crc="513899526" mt="1433111536077" redirect="true"/>
   <file name="photography.html" crc="529890005" mt="1433111536077" redirect="true"/>
