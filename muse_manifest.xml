@@ -1,39 +1,40 @@
-<manifest alg="2" build="11" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" resolutions="1x" timestamp="1433399824592">
+<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" resolutions="1x" timestamp="1449652271325" domain="jeffreykeeny.com">
   <folder name="css">
-    <file name="site_global.css" crc="513671728"/>
-    <file name="master_a-master.css" crc="533525749" ref="723:graphic-design:parking-buddy:user-experience:callisto:photography"/>
-    <file name="723.css" crc="3779085621" ref="723"/>
-    <file name="iefonts_723.css" crc="483224638" ref="723"/>
-    <file name="graphic-design.css" crc="258575225" ref="graphic-design"/>
-    <file name="iefonts_graphic-design.css" crc="434899982" ref="graphic-design"/>
-    <file name="index.css" crc="154080002" ref="index"/>
-    <file name="iefonts_index.css" crc="220366570" ref="index"/>
-    <file name="parking-buddy.css" crc="317980835" ref="parking-buddy"/>
-    <file name="iefonts_parking-buddy.css" crc="429291613" ref="parking-buddy"/>
-    <file name="user-experience.css" crc="468950017" ref="user-experience"/>
-    <file name="iefonts_user-experience.css" crc="468205068" ref="user-experience"/>
-    <file name="callisto.css" crc="4040256991" ref="callisto"/>
-    <file name="iefonts_callisto.css" crc="4121734043" ref="callisto"/>
-    <file name="photography.css" crc="3765496404" ref="photography"/>
-    <file name="iefonts_photography.css" crc="4101435184" ref="photography"/>
+    <file name="site_global.css" crc="3789128965"/>
+    <file name="master_a-master.css" crc="417038826" ref="723:graphic-design:parking-buddy:user-experience:callisto:photography"/>
+    <file name="723.css" crc="466449196" ref="723"/>
+    <file name="graphic-design.css" crc="513032080" ref="graphic-design"/>
+    <file name="index.css" crc="137444644" ref="index"/>
+    <file name="parking-buddy.css" crc="3929280873" ref="parking-buddy"/>
+    <file name="user-experience.css" crc="4210541520" ref="user-experience"/>
+    <file name="callisto.css" crc="220263098" ref="callisto"/>
+    <file name="photography.css" crc="11003443" ref="photography"/>
   </folder>
   <folder name="assets">
     <file name="resume_new.pdf" crc="3890735775" mt="1416992762000"/>
-    <file name="resume_2015.pdf" crc="3829096678" mt="1433140931000"/>
+    <file name="resume_2015.pdf" crc="4135101756" mt="1441763296000" seo="true"/>
     <file name="callistoformativeresearchsummary.pdf" crc="3974300129" mt="1425435611000"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="3880902115" ref="index:user-experience:callisto:parking-buddy:723:photography:graphic-design"/>
-    <file name="museutils.js" crc="521960461" ref="index:user-experience:callisto:parking-buddy:723:photography:graphic-design"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="349594875" ref="index:user-experience:callisto:parking-buddy:photography:graphic-design"/>
-    <file name="jquery.scrolleffects.js" crc="4038615763" ref="index:user-experience:callisto:parking-buddy:723:photography:graphic-design"/>
-    <file name="jquery.watch.js" crc="56779320" ref="index:user-experience:callisto:parking-buddy:723:photography:graphic-design"/>
+    <file name="jquery-1.8.3.min.js" crc="196614522" ref="index:user-experience:callisto:parking-buddy:723:photography:graphic-design"/>
+    <file name="museutils.js" crc="275725342" ref="index:user-experience:callisto:parking-buddy:723:photography:graphic-design"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="185257658" ref="index:user-experience:callisto:parking-buddy:graphic-design"/>
+    <file name="jquery.scrolleffects.js" crc="206645848" ref="index:user-experience:callisto:parking-buddy:723:photography:graphic-design"/>
+    <file name="jquery.watch.js" crc="3999102769" ref="index:user-experience:callisto:parking-buddy:723:photography:graphic-design"/>
     <file name="pie.js" crc="3827607177" ref="index:user-experience:callisto:parking-buddy"/>
-    <file name="jquery.musemenu.js" crc="397543671" ref="index:user-experience:callisto:parking-buddy:723:photography:graphic-design"/>
+    <file name="jquery.musemenu.js" crc="4042164668" ref="index:user-experience:callisto:parking-buddy:723:photography:graphic-design"/>
     <file name="html5shiv.js" crc="4241844378" ref="index:user-experience:callisto:parking-buddy:723:photography:graphic-design"/>
+    <file name="webpro.js" crc="3883484123" ref="index:photography"/>
+    <file name="form_check.php" crc="3932029206" ref="index"/>
+    <file name="form_throttle.php" crc="314685628" ref="index"/>
+    <file name="form_process.php" crc="401030677" ref="index"/>
+    <file name="form-u2574.php" crc="112557183" ref="index"/>
+    <file name="musewpslideshow.js" crc="360574455" ref="photography"/>
+    <file name="jquery.museoverlay.js" crc="342093292" ref="photography"/>
+    <file name="touchswipe.js" crc="4218319045" ref="photography"/>
   </folder>
   <folder name="images">
-    <file name="stripes_red-01.png" crc="168890942" ref="index:723:graphic-design"/>
+    <file name="stripes_red-01.png" crc="168890942" ref="723:graphic-design"/>
     <file name="edit.jpg" crc="232906438" ref="index"/>
     <file name="arrowmenudown.gif" crc="213132104" ref="index:user-experience"/>
     <file name="pasted svg 324524x324.svg" crc="4257466692" ref="index"/>
@@ -51,7 +52,7 @@
     <file name="pasted svg 324524x3247.svg" crc="3938419858" ref="index"/>
     <file name="pasted svg 324524x324_poster_7.png" crc="3762116727" ref="index"/>
     <file name="stripes-01.png" crc="4174791617" ref="user-experience"/>
-    <file name="displayphotoedit.jpg" crc="3782941265" ref="user-experience:callisto"/>
+    <file name="displayphotoedit.jpg" crc="4146203104" ref="user-experience:callisto"/>
     <file name="parkingbuddy.jpg" crc="4279930784" ref="user-experience:parking-buddy"/>
     <file name="stripes3-01.png" crc="237732515" ref="callisto:parking-buddy"/>
     <file name="img_0945.jpg" crc="278266853" ref="callisto"/>
@@ -109,41 +110,46 @@
     <file name="pasted svg 493915x409.svg" crc="320252822" ref="parking-buddy"/>
     <file name="pasted svg 493915x409_poster_.png" crc="4264357048" ref="parking-buddy"/>
     <file name="pasted svg 231334x387.svg" crc="379039789" ref="parking-buddy"/>
-    <file name="dsc00277.jpg" crc="173190921" ref="photography"/>
-    <file name="dsc09612.jpg" crc="36615673" ref="photography"/>
-    <file name="dsc05861.jpg" crc="489404524" ref="photography"/>
-    <file name="dsc05867.jpg" crc="25010949" ref="photography"/>
-    <file name="dsc03848.jpg" crc="47645547" ref="photography"/>
-    <file name="dsc09964.jpg" crc="188890359" ref="photography"/>
-    <file name="4edit.jpg" crc="3806665578" ref="photography"/>
-    <file name="dsc09952.jpg" crc="3906402890" ref="photography"/>
-    <file name="dsc05637.jpg" crc="4103455720" ref="photography"/>
-    <file name="dsc03956.jpg" crc="3974339560" ref="photography"/>
-    <file name="editdsc05099 copy.jpg" crc="38533109" ref="photography"/>
-    <file name="fullsizerender.jpg" crc="3948541029" ref="graphic-design"/>
-    <file name="stars.jpg" crc="4087216735" ref="graphic-design"/>
-    <file name="vince.jpg" crc="198977304" ref="graphic-design"/>
-    <file name="stars2.jpg" crc="92999101" ref="graphic-design"/>
-    <file name="dsc_0110-2.jpg" crc="342972256" ref="graphic-design"/>
-    <file name="cdsc_0110-2.jpg" crc="4216879695" ref="graphic-design"/>
+    <file name="dsc00277.jpg" crc="4223419614" ref="photography" seo="true"/>
+    <file name="dsc09612.jpg" crc="109607010" ref="photography" seo="true"/>
+    <file name="dsc05861.jpg" crc="4146440277" ref="photography" seo="true"/>
+    <file name="dsc03848.jpg" crc="4037167787" ref="photography" seo="true"/>
+    <file name="dsc05637.jpg" crc="183875562" ref="photography" seo="true"/>
+    <file name="dsc03956.jpg" crc="3758744591" ref="photography" seo="true"/>
+    <file name="fullsizerender.jpg" crc="3948541029" ref="graphic-design" seo="true"/>
+    <file name="stars.jpg" crc="4087216735" ref="graphic-design" seo="true"/>
+    <file name="vince.jpg" crc="198977304" ref="graphic-design" seo="true"/>
+    <file name="stars2.jpg" crc="92999101" ref="graphic-design" seo="true"/>
+    <file name="dsc_0110-2.jpg" crc="342972256" ref="graphic-design" seo="true"/>
+    <file name="cdsc_0110-2.jpg" crc="4216879695" ref="graphic-design" seo="true"/>
     <file name="pasted svg 576x828.svg" crc="329719721" ref="graphic-design"/>
     <file name="pasted svg 576x828_poster_.png" crc="3820771501" ref="graphic-design"/>
-    <file name="clipachi_flyer-01.jpg" crc="4168393702" ref="graphic-design"/>
+    <file name="clipachi_flyer-01.jpg" crc="4168393702" ref="graphic-design" seo="true"/>
     <file name="butts.jpg" crc="284896777" ref="graphic-design"/>
     <file name="atw_cover.jpg" crc="33186081" ref="graphic-design"/>
-    <file name="dsc05914 copy.jpg" crc="3786024960" ref="graphic-design"/>
+    <file name="dsc05914 copy.jpg" crc="3786024960" ref="graphic-design" seo="true"/>
     <file name="pasted svg 500x500.svg" crc="156234181" ref="graphic-design"/>
     <file name="pasted svg 500x500_poster_.png" crc="508076076" ref="graphic-design"/>
     <file name="uc_transit-01.jpg" crc="268087059" ref="graphic-design"/>
-    <file name="mesmerize.jpg" crc="4202839447" ref="graphic-design"/>
+    <file name="mesmerize.jpg" crc="4202839447" ref="graphic-design" seo="true"/>
     <file name="santabear-01.jpg" crc="3948981997" ref="graphic-design"/>
     <file name="spring15rush_cover.jpg" crc="404017896" ref="graphic-design"/>
+    <file name="u2580-17.png" crc="267515114" ref="index"/>
+    <file name="u2580-17-r.png" crc="3780820421" ref="index"/>
+    <file name="u2580-17-m.png" crc="415906297" ref="index"/>
+    <file name="u2580-17-fs.png" crc="3778765012" ref="index"/>
+    <file name="finaledit.jpg" crc="473741911" seo="true" ref="photography"/>
+    <file name="blank.gif" crc="4208392903" ref="photography"/>
+    <file name="dsc00003.jpg" crc="414039088" seo="true" ref="photography"/>
+    <file name="dsc00671.jpg" crc="3836356906" seo="true" ref="photography"/>
+    <file name="dsc00733.jpg" crc="99108313" seo="true" ref="photography"/>
+    <file name="loading.gif" crc="3815509949" ref="photography"/>
   </folder>
-  <file name="index.html" crc="4123227355" mt="1433399811999" redirect="true"/>
-  <file name="user-experience.html" crc="4164287223" mt="1433399822399" redirect="true"/>
-  <file name="callisto.html" crc="88160384" mt="1433399822398" redirect="true"/>
-  <file name="parking-buddy.html" crc="4140003533" mt="1433111536077" redirect="true"/>
-  <file name="723.html" crc="513899526" mt="1433111536077" redirect="true"/>
-  <file name="photography.html" crc="529890005" mt="1433111536077" redirect="true"/>
-  <file name="graphic-design.html" crc="4235818260" mt="1433390360777" redirect="true"/>
+  <file name="index.html" crc="4279604221" mt="1449629431105" redirect="true" seo="true"/>
+  <file name="user-experience.html" crc="3957111209" mt="1449652260777" redirect="true" seo="true"/>
+  <file name="callisto.html" crc="413451355" mt="1449652260782" redirect="true" seo="true"/>
+  <file name="parking-buddy.html" crc="4199311454" mt="1449637888176" redirect="true" seo="true"/>
+  <file name="723.html" crc="55221065" mt="1449637888176" redirect="true" seo="true"/>
+  <file name="photography.html" crc="394227199" mt="1449638923669" redirect="true" seo="true"/>
+  <file name="graphic-design.html" crc="3992592519" mt="1449637888176" redirect="true" seo="true"/>
 </manifest>

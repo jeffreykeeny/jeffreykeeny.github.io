@@ -1,692 +1,164 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://jeffreykeeny.com/assets/resume_new.pdf</loc>
-    <lastmod>2014-11-26</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>http://jeffreykeeny.com/assets/resume_2015.pdf</loc>
-    <lastmod>2015-05-31</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://jeffreykeeny.com/assets/callistoformativeresearchsummary.pdf</loc>
-    <lastmod>2015-03-03</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://jeffreykeeny.com/images/stripes_red-01.png</loc>
-    <lastmod>2015-06-03</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://jeffreykeeny.com/images/edit.jpg</loc>
-    <lastmod>2015-06-03</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://jeffreykeeny.com/images/arrowmenudown.gif</loc>
-    <lastmod>2015-06-03</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://jeffreykeeny.com/images/pasted%20svg%20324524x324.svg</loc>
-    <lastmod>2015-06-03</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://jeffreykeeny.com/images/pasted%20svg%20324524x324_poster_.png</loc>
-    <lastmod>2015-06-03</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://jeffreykeeny.com/images/pasted%20svg%20324524x3242.svg</loc>
-    <lastmod>2015-06-03</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://jeffreykeeny.com/images/pasted%20svg%20324524x324_poster_2.png</loc>
-    <lastmod>2015-06-03</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://jeffreykeeny.com/images/pasted%20svg%20324524x3243.svg</loc>
-    <lastmod>2015-06-03</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://jeffreykeeny.com/images/pasted%20svg%20324524x324_poster_3.png</loc>
-    <lastmod>2015-06-03</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://jeffreykeeny.com/images/pasted%20svg%20324524x3244.svg</loc>
-    <lastmod>2015-06-03</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://jeffreykeeny.com/images/pasted%20svg%20324524x324_poster_4.png</loc>
-    <lastmod>2015-06-03</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://jeffreykeeny.com/images/pasted%20svg%20324524x3245.svg</loc>
-    <lastmod>2015-06-03</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://jeffreykeeny.com/images/pasted%20svg%20324524x324_poster_5.png</loc>
-    <lastmod>2015-06-03</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://jeffreykeeny.com/images/pasted%20svg%20324524x3246.svg</loc>
-    <lastmod>2015-06-03</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://jeffreykeeny.com/images/pasted%20svg%20324524x324_poster_6.png</loc>
-    <lastmod>2015-06-03</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://jeffreykeeny.com/images/pasted%20svg%20324524x3247.svg</loc>
-    <lastmod>2015-06-03</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://jeffreykeeny.com/images/pasted%20svg%20324524x324_poster_7.png</loc>
-    <lastmod>2015-06-03</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://jeffreykeeny.com/images/stripes-01.png</loc>
-    <lastmod>2015-06-03</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://jeffreykeeny.com/images/displayphotoedit.jpg</loc>
-    <lastmod>2015-06-03</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://jeffreykeeny.com/images/parkingbuddy.jpg</loc>
-    <lastmod>2015-06-03</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://jeffreykeeny.com/images/stripes3-01.png</loc>
-    <lastmod>2015-06-03</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://jeffreykeeny.com/images/img_0945.jpg</loc>
-    <lastmod>2015-06-03</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://jeffreykeeny.com/images/img_0952.jpg</loc>
-    <lastmod>2015-06-03</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://jeffreykeeny.com/images/pasted%20svg%201440x900.svg</loc>
-    <lastmod>2015-06-03</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://jeffreykeeny.com/images/pasted%20svg%201440x900_poster_.png</loc>
-    <lastmod>2015-06-03</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://jeffreykeeny.com/images/pasted%20svg%201440x9002.svg</loc>
-    <lastmod>2015-06-03</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://jeffreykeeny.com/images/pasted%20svg%201440x900_poster_2.png</loc>
-    <lastmod>2015-06-03</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://jeffreykeeny.com/images/pasted%20svg%20230054x244.svg</loc>
-    <lastmod>2015-06-03</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://jeffreykeeny.com/images/pasted%20svg%20230054x244_poster_.png</loc>
-    <lastmod>2015-06-03</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://jeffreykeeny.com/images/pasted%20svg%201447.svg</loc>
-    <lastmod>2015-06-03</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://jeffreykeeny.com/images/pasted%20svg%201447_poster_.png</loc>
-    <lastmod>2015-06-03</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://jeffreykeeny.com/images/pasted%20svg%20912787x340.svg</loc>
-    <lastmod>2015-06-03</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://jeffreykeeny.com/images/pasted%20svg%20912787x340_poster_.png</loc>
-    <lastmod>2015-06-03</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://jeffreykeeny.com/images/pasted%20svg%201214097x566.svg</loc>
-    <lastmod>2015-06-03</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://jeffreykeeny.com/images/pasted%20svg%201214097x566_poster_.png</loc>
-    <lastmod>2015-06-03</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://jeffreykeeny.com/images/first%20iteration-04.png</loc>
-    <lastmod>2015-06-03</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://jeffreykeeny.com/images/pasted%20svg%201440x9003.svg</loc>
-    <lastmod>2015-06-03</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://jeffreykeeny.com/images/pasted%20svg%201440x900_poster_3.png</loc>
-    <lastmod>2015-06-03</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://jeffreykeeny.com/images/first%20iteration-03.png</loc>
-    <lastmod>2015-06-03</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://jeffreykeeny.com/images/pasted%20svg%201440x9004.svg</loc>
-    <lastmod>2015-06-03</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://jeffreykeeny.com/images/pasted%20svg%201440x900_poster_4.png</loc>
-    <lastmod>2015-06-03</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://jeffreykeeny.com/images/pasted%20svg%2027295x272.svg</loc>
-    <lastmod>2015-06-03</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://jeffreykeeny.com/images/pasted%20svg%2027295x272_poster_.png</loc>
-    <lastmod>2015-06-03</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://jeffreykeeny.com/images/pasted%20svg%2027295x2722.svg</loc>
-    <lastmod>2015-06-03</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://jeffreykeeny.com/images/pasted%20svg%2027295x2723.svg</loc>
-    <lastmod>2015-06-03</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://jeffreykeeny.com/images/pasted%20svg%2027295x287.svg</loc>
-    <lastmod>2015-06-03</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://jeffreykeeny.com/images/pasted%20svg%2027295x287_poster_.png</loc>
-    <lastmod>2015-06-03</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://jeffreykeeny.com/images/pasted%20svg%20831434x762.svg</loc>
-    <lastmod>2015-06-03</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://jeffreykeeny.com/images/pasted%20svg%20900x500.svg</loc>
-    <lastmod>2015-06-03</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://jeffreykeeny.com/images/pasted%20svg%20900x500_poster_.png</loc>
-    <lastmod>2015-06-03</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://jeffreykeeny.com/images/pasted%20svg%20900x5002.svg</loc>
-    <lastmod>2015-06-03</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://jeffreykeeny.com/images/pasted%20svg%20900x500_poster_2.png</loc>
-    <lastmod>2015-06-03</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://jeffreykeeny.com/images/pasted%20svg%2022566x400.svg</loc>
-    <lastmod>2015-06-03</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://jeffreykeeny.com/images/pasted%20svg%2022566x400_poster_.png</loc>
-    <lastmod>2015-06-03</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://jeffreykeeny.com/images/pasted%20svg%20225607x157.svg</loc>
-    <lastmod>2015-06-03</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://jeffreykeeny.com/images/pasted%20svg%20192483x111.svg</loc>
-    <lastmod>2015-06-03</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://jeffreykeeny.com/images/pasted%20svg%20192483x111_poster_.png</loc>
-    <lastmod>2015-06-03</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://jeffreykeeny.com/images/pasted%20svg%2084048x13.svg</loc>
-    <lastmod>2015-06-03</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://jeffreykeeny.com/images/pasted%20svg%2084048x13_poster_.png</loc>
-    <lastmod>2015-06-03</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://jeffreykeeny.com/images/pasted%20svg%2085798x512.svg</loc>
-    <lastmod>2015-06-03</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://jeffreykeeny.com/images/pasted%20svg%2085798x512_poster_.png</loc>
-    <lastmod>2015-06-03</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://jeffreykeeny.com/images/pasted%20svg%20900x5003.svg</loc>
-    <lastmod>2015-06-03</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://jeffreykeeny.com/images/pasted%20svg%20900x500_poster_3.png</loc>
-    <lastmod>2015-06-03</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://jeffreykeeny.com/images/pasted%20svg%20180109x319.svg</loc>
-    <lastmod>2015-06-03</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://jeffreykeeny.com/images/pasted%20svg%20782753x384.svg</loc>
-    <lastmod>2015-06-03</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://jeffreykeeny.com/images/pasted%20svg%20782753x384_poster_.png</loc>
-    <lastmod>2015-06-03</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://jeffreykeeny.com/images/pasted%20svg%20883.svg</loc>
-    <lastmod>2015-06-03</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://jeffreykeeny.com/images/pasted%20svg%20883_poster_.png</loc>
-    <lastmod>2015-06-03</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://jeffreykeeny.com/images/pasted%20svg%20229826x408.svg</loc>
-    <lastmod>2015-06-03</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://jeffreykeeny.com/images/pasted%20svg%20781633x413.svg</loc>
-    <lastmod>2015-06-03</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://jeffreykeeny.com/images/pasted%20svg%20781633x413_poster_.png</loc>
-    <lastmod>2015-06-03</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://jeffreykeeny.com/images/pasted%20svg%20391167x126.svg</loc>
-    <lastmod>2015-06-03</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://jeffreykeeny.com/images/pasted%20svg%20391167x126_poster_.png</loc>
-    <lastmod>2015-06-03</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://jeffreykeeny.com/images/pasted%20svg%20493915x409.svg</loc>
-    <lastmod>2015-06-03</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://jeffreykeeny.com/images/pasted%20svg%20493915x409_poster_.png</loc>
-    <lastmod>2015-06-03</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://jeffreykeeny.com/images/pasted%20svg%20231334x387.svg</loc>
-    <lastmod>2015-06-03</lastmod>
+    <lastmod>2015-09-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://jeffreykeeny.com/images/dsc00277.jpg</loc>
-    <lastmod>2015-06-03</lastmod>
+    <lastmod>2015-12-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://jeffreykeeny.com/images/dsc09612.jpg</loc>
-    <lastmod>2015-06-03</lastmod>
+    <lastmod>2015-12-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://jeffreykeeny.com/images/dsc05861.jpg</loc>
-    <lastmod>2015-06-03</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://jeffreykeeny.com/images/dsc05867.jpg</loc>
-    <lastmod>2015-06-03</lastmod>
+    <lastmod>2015-12-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://jeffreykeeny.com/images/dsc03848.jpg</loc>
-    <lastmod>2015-06-03</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://jeffreykeeny.com/images/dsc09964.jpg</loc>
-    <lastmod>2015-06-03</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://jeffreykeeny.com/images/4edit.jpg</loc>
-    <lastmod>2015-06-03</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://jeffreykeeny.com/images/dsc09952.jpg</loc>
-    <lastmod>2015-06-03</lastmod>
+    <lastmod>2015-12-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://jeffreykeeny.com/images/dsc05637.jpg</loc>
-    <lastmod>2015-06-03</lastmod>
+    <lastmod>2015-12-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://jeffreykeeny.com/images/dsc03956.jpg</loc>
-    <lastmod>2015-06-03</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://jeffreykeeny.com/images/editdsc05099%20copy.jpg</loc>
-    <lastmod>2015-06-03</lastmod>
+    <lastmod>2015-12-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://jeffreykeeny.com/images/fullsizerender.jpg</loc>
-    <lastmod>2015-06-03</lastmod>
+    <lastmod>2015-12-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://jeffreykeeny.com/images/stars.jpg</loc>
-    <lastmod>2015-06-03</lastmod>
+    <lastmod>2015-12-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://jeffreykeeny.com/images/vince.jpg</loc>
-    <lastmod>2015-06-03</lastmod>
+    <lastmod>2015-12-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://jeffreykeeny.com/images/stars2.jpg</loc>
-    <lastmod>2015-06-03</lastmod>
+    <lastmod>2015-12-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://jeffreykeeny.com/images/dsc_0110-2.jpg</loc>
-    <lastmod>2015-06-03</lastmod>
+    <lastmod>2015-12-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://jeffreykeeny.com/images/cdsc_0110-2.jpg</loc>
-    <lastmod>2015-06-03</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://jeffreykeeny.com/images/pasted%20svg%20576x828.svg</loc>
-    <lastmod>2015-06-03</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://jeffreykeeny.com/images/pasted%20svg%20576x828_poster_.png</loc>
-    <lastmod>2015-06-03</lastmod>
+    <lastmod>2015-12-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://jeffreykeeny.com/images/clipachi_flyer-01.jpg</loc>
-    <lastmod>2015-06-03</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://jeffreykeeny.com/images/butts.jpg</loc>
-    <lastmod>2015-06-03</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://jeffreykeeny.com/images/atw_cover.jpg</loc>
-    <lastmod>2015-06-03</lastmod>
+    <lastmod>2015-12-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://jeffreykeeny.com/images/dsc05914%20copy.jpg</loc>
-    <lastmod>2015-06-03</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://jeffreykeeny.com/images/pasted%20svg%20500x500.svg</loc>
-    <lastmod>2015-06-03</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://jeffreykeeny.com/images/pasted%20svg%20500x500_poster_.png</loc>
-    <lastmod>2015-06-03</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://jeffreykeeny.com/images/uc_transit-01.jpg</loc>
-    <lastmod>2015-06-03</lastmod>
+    <lastmod>2015-12-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://jeffreykeeny.com/images/mesmerize.jpg</loc>
-    <lastmod>2015-06-03</lastmod>
+    <lastmod>2015-12-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://jeffreykeeny.com/images/santabear-01.jpg</loc>
-    <lastmod>2015-06-03</lastmod>
+    <loc>http://jeffreykeeny.com/images/finaledit.jpg</loc>
+    <lastmod>2015-12-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://jeffreykeeny.com/images/spring15rush_cover.jpg</loc>
-    <lastmod>2015-06-03</lastmod>
+    <loc>http://jeffreykeeny.com/images/dsc00003.jpg</loc>
+    <lastmod>2015-12-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://jeffreykeeny.com/images/dsc00671.jpg</loc>
+    <lastmod>2015-12-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://jeffreykeeny.com/images/dsc00733.jpg</loc>
+    <lastmod>2015-12-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://jeffreykeeny.com/index.html</loc>
-    <lastmod>2015-06-03</lastmod>
+    <lastmod>2015-12-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://jeffreykeeny.com/user-experience.html</loc>
-    <lastmod>2015-06-03</lastmod>
+    <lastmod>2015-12-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://jeffreykeeny.com/callisto.html</loc>
-    <lastmod>2015-06-03</lastmod>
+    <lastmod>2015-12-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://jeffreykeeny.com/parking-buddy.html</loc>
-    <lastmod>2015-05-31</lastmod>
+    <lastmod>2015-12-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://jeffreykeeny.com/723.html</loc>
-    <lastmod>2015-05-31</lastmod>
+    <lastmod>2015-12-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://jeffreykeeny.com/photography.html</loc>
-    <lastmod>2015-05-31</lastmod>
+    <lastmod>2015-12-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://jeffreykeeny.com/graphic-design.html</loc>
-    <lastmod>2015-06-03</lastmod>
+    <lastmod>2015-12-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
