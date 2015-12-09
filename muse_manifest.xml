@@ -1,10 +1,10 @@
-<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" resolutions="1x" timestamp="1449652271325" domain="jeffreykeeny.com">
+<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" resolutions="1x" timestamp="1449652747528" domain="jeffreykeeny.com">
   <folder name="css">
     <file name="site_global.css" crc="3789128965"/>
     <file name="master_a-master.css" crc="417038826" ref="723:graphic-design:parking-buddy:user-experience:callisto:photography"/>
     <file name="723.css" crc="466449196" ref="723"/>
     <file name="graphic-design.css" crc="513032080" ref="graphic-design"/>
-    <file name="index.css" crc="137444644" ref="index"/>
+    <file name="index.css" crc="4176095564" ref="index"/>
     <file name="parking-buddy.css" crc="3929280873" ref="parking-buddy"/>
     <file name="user-experience.css" crc="4210541520" ref="user-experience"/>
     <file name="callisto.css" crc="220263098" ref="callisto"/>
@@ -145,9 +145,9 @@
     <file name="dsc00733.jpg" crc="99108313" seo="true" ref="photography"/>
     <file name="loading.gif" crc="3815509949" ref="photography"/>
   </folder>
-  <file name="index.html" crc="4279604221" mt="1449629431105" redirect="true" seo="true"/>
-  <file name="user-experience.html" crc="3957111209" mt="1449652260777" redirect="true" seo="true"/>
-  <file name="callisto.html" crc="413451355" mt="1449652260782" redirect="true" seo="true"/>
+  <file name="index.html" crc="95299416" mt="1449652727380" redirect="true" seo="true"/>
+  <file name="user-experience.html" crc="41616741" mt="1449652742104" redirect="true" seo="true"/>
+  <file name="callisto.html" crc="68567140" mt="1449652742107" redirect="true" seo="true"/>
   <file name="parking-buddy.html" crc="4199311454" mt="1449637888176" redirect="true" seo="true"/>
   <file name="723.html" crc="55221065" mt="1449637888176" redirect="true" seo="true"/>
   <file name="photography.html" crc="394227199" mt="1449638923669" redirect="true" seo="true"/>
