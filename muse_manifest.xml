@@ -1,17 +1,18 @@
-<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="jeffreykeeny.com" resolutions="1x" timestamp="1455451393837">
+<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="jeffreykeeny.com" resolutions="1x" timestamp="1455452410244">
   <folder name="css">
     <file name="site_global.css" crc="190354372"/>
-    <file name="master_a-master.css" crc="86429513" ref="student-appreciation:photography:user-experience:videography:723:intro-decal:parking-buddy:graphic-design:callisto"/>
-    <file name="student-appreciation.css" crc="4024556755" ref="student-appreciation"/>
-    <file name="photography.css" crc="3888442351" ref="photography"/>
-    <file name="user-experience.css" crc="82146711" ref="user-experience"/>
-    <file name="videography.css" crc="397127490" ref="videography"/>
-    <file name="723.css" crc="191020116" ref="723"/>
-    <file name="intro-decal.css" crc="3819643974" ref="intro-decal"/>
-    <file name="index.css" crc="4141348221" ref="index"/>
-    <file name="parking-buddy.css" crc="4292512883" ref="parking-buddy"/>
-    <file name="graphic-design.css" crc="384754890" ref="graphic-design"/>
-    <file name="callisto.css" crc="4209132634" ref="callisto"/>
+    <file name="master_a-master.css" crc="86429513" ref="student-appreciation:user-experience:videography:723:intro-decal:parking-buddy:graphic-design:callisto"/>
+    <file name="student-appreciation.css" crc="45519102" ref="student-appreciation"/>
+    <file name="photography.css" crc="3991096330" ref="photography"/>
+    <file name="user-experience.css" crc="3900644295" ref="user-experience"/>
+    <file name="videography.css" crc="16246787" ref="videography"/>
+    <file name="723.css" crc="4053988685" ref="723"/>
+    <file name="intro-decal.css" crc="509073053" ref="intro-decal"/>
+    <file name="index.css" crc="298614008" ref="index"/>
+    <file name="parking-buddy.css" crc="250879271" ref="parking-buddy"/>
+    <file name="graphic-design.css" crc="231486694" ref="graphic-design"/>
+    <file name="callisto.css" crc="121733633" ref="callisto"/>
+    <file name="master_b-master.css" crc="457668587" ref="index:photography"/>
   </folder>
   <folder name="assets">
     <file name="callistoformativeresearchsummary.pdf" crc="3974300129" seo="true" mt="1425435611000"/>
@@ -184,14 +185,14 @@
     <file name="screen shot 2016-02-13 at 65321 pm.jpg" crc="3979814566" seo="true" ref="student-appreciation"/>
     <file name="screen shot 2016-02-13 at 65334 pm.jpg" crc="4210277539" seo="true" ref="student-appreciation"/>
   </folder>
-  <file name="index.html" crc="3811877876" seo="true" mt="1455451383952" redirect="true"/>
-  <file name="user-experience.html" crc="391579763" seo="true" mt="1455451382312" redirect="true"/>
-  <file name="callisto.html" crc="4164290058" seo="true" mt="1455451382313" redirect="true"/>
-  <file name="parking-buddy.html" crc="146517784" seo="true" mt="1455451331367" redirect="true"/>
-  <file name="723.html" crc="3860377528" seo="true" mt="1455451331367" redirect="true"/>
-  <file name="photography.html" crc="4074348060" seo="true" mt="1455451331367" redirect="true"/>
-  <file name="graphic-design.html" crc="512859762" seo="true" mt="1455451331367" redirect="true"/>
-  <file name="intro-decal.html" crc="314055886" seo="true" mt="1455451331367" redirect="true"/>
-  <file name="student-appreciation.html" crc="338379906" seo="true" mt="1455451331367" redirect="true"/>
-  <file name="videography.html" crc="3772430903" seo="true" mt="1455451331367" redirect="true"/>
+  <file name="index.html" crc="312545755" seo="true" mt="1455452405895" redirect="true"/>
+  <file name="user-experience.html" crc="4009652935" seo="true" mt="1455452403813" redirect="true"/>
+  <file name="callisto.html" crc="4263246392" seo="true" mt="1455452403814" redirect="true"/>
+  <file name="parking-buddy.html" crc="379124100" seo="true" mt="1455452017381" redirect="true"/>
+  <file name="723.html" crc="4028306843" seo="true" mt="1455452017381" redirect="true"/>
+  <file name="photography.html" crc="519071925" seo="true" mt="1455452204087" redirect="true"/>
+  <file name="graphic-design.html" crc="3899802474" seo="true" mt="1455452017381" redirect="true"/>
+  <file name="intro-decal.html" crc="4000321336" seo="true" mt="1455452017381" redirect="true"/>
+  <file name="student-appreciation.html" crc="3769452704" seo="true" mt="1455452017381" redirect="true"/>
+  <file name="videography.html" crc="33359107" seo="true" mt="1455452017381" redirect="true"/>
 </manifest>

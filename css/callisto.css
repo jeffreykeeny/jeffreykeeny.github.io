@@ -1,7 +1,7 @@
 .version.callisto /* version checker */
 {
-	color: #0000FA;
-	background-color: #E2445A;
+	color: #000007;
+	background-color: #418201;
 }
 
 .html
@@ -72,7 +72,7 @@
 #menuu382
 {
 	z-index: 142;
-	width: 461px;
+	width: 462px;
 	top: 0px;
 	left: 499px;
 }
@@ -587,7 +587,7 @@
 
 #u597
 {
-	width: 153px;
+	width: 154px;
 	min-height: 34px;
 	margin-right: -10000px;
 	left: 308px;
@@ -595,27 +595,27 @@
 
 #u600
 {
-	width: 153px;
+	width: 154px;
 	padding-bottom: 17px;
 }
 
 #u600:hover
 {
-	width: 153px;
+	width: 154px;
 	min-height: 0px;
 	margin: 0px;
 }
 
 #u600.MuseMenuActive
 {
-	width: 153px;
+	width: 154px;
 	min-height: 0px;
 	margin: 0px;
 }
 
 #u601-4
 {
-	width: 121px;
+	width: 122px;
 	min-height: 17px;
 	margin-right: -10000px;
 	top: 8px;
@@ -627,7 +627,7 @@
 	padding-top: 0px;
 	padding-bottom: 0px;
 	min-height: 17px;
-	width: 121px;
+	width: 122px;
 	margin: 0px -10000px 0px 0px;
 }
 
@@ -636,7 +636,7 @@
 	padding-top: 0px;
 	padding-bottom: 0px;
 	min-height: 17px;
-	width: 121px;
+	width: 122px;
 	margin: 0px -10000px 0px 0px;
 }
 
