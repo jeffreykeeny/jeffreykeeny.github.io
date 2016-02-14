@@ -45,9 +45,9 @@
 
 #u400:hover
 {
-	background-color: #FFFFFF;
-	background-color: rgba(255,255,255,0.5);
-	-pie-background: rgba(255,255,255,0.5);
+	background-color: #F3F3F3;
+	background-color: rgba(127,127,127,0.09);
+	-pie-background: rgba(127,127,127,0.09);
 }
 
 #u403-4
@@ -71,9 +71,9 @@
 
 #u412:hover
 {
-	background-color: #FFFFFF;
-	background-color: rgba(255,255,255,0.5);
-	-pie-background: rgba(255,255,255,0.5);
+	background-color: #F3F3F3;
+	background-color: rgba(127,127,127,0.09);
+	-pie-background: rgba(127,127,127,0.09);
 }
 
 #u414-4
@@ -362,9 +362,9 @@
 
 #u405:hover
 {
-	background-color: #FFFFFF;
-	background-color: rgba(255,255,255,0.5);
-	-pie-background: rgba(255,255,255,0.5);
+	background-color: #F3F3F3;
+	background-color: rgba(127,127,127,0.09);
+	-pie-background: rgba(127,127,127,0.09);
 }
 
 #u407-4
@@ -388,9 +388,9 @@
 
 #u600:hover
 {
-	background-color: #FFFFFF;
-	background-color: rgba(255,255,255,0.5);
-	-pie-background: rgba(255,255,255,0.5);
+	background-color: #F3F3F3;
+	background-color: rgba(127,127,127,0.09);
+	-pie-background: rgba(127,127,127,0.09);
 }
 
 #u400.MuseMenuActive,#u412.MuseMenuActive,#u416,#u405.MuseMenuActive,#u600.MuseMenuActive

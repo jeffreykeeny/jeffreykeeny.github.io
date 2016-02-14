@@ -1,7 +1,7 @@
 .version.photography /* version checker */
 {
-	color: #0000F1;
-	background-color: #5AC020;
+	color: #0000E7;
+	background-color: #C4EBEF;
 }
 
 .html
@@ -164,9 +164,9 @@
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=88)";
 	filter: alpha(opacity=88);
 	padding: 15px;
-	line-height: 20px;
 	color: #999999;
 	text-align: center;
+	line-height: 20px;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	position: fixed;
 	top: 98px;
